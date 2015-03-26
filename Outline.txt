@@ -1,0 +1,11 @@
+- World
+ - Scene
+	- Interaction
+		- Conversation
+		- Use
+		- Pick up
+
+- Game
+	- Player
+	- Scene
+	- World

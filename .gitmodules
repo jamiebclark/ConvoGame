@@ -1,0 +1,3 @@
+[submodule "app/Plugin/CakeCrud"]
+	path = app/Plugin/CakeCrud
+	url = git@github.com:jamiebclark/CakeCrud.git

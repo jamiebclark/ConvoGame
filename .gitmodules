@@ -1,3 +1,6 @@
 [submodule "app/Plugin/CakeCrud"]
 	path = app/Plugin/CakeCrud
 	url = git@github.com:jamiebclark/CakeCrud.git
+[submodule "app/Plugin/Layout"]
+	path = app/Plugin/Layout
+	url = git@github.com:jamiebclark/Layout.git

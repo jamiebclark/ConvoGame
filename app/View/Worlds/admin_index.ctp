@@ -6,7 +6,9 @@ foreach ($worlds as $world):
 			$this->Html->link(
 				$world['World']['title'],
 				$url
-			)
+			),
+			'Title',
+			'World.title',
 		)
 	), true);
 endforeach;
